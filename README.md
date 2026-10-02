@@ -103,8 +103,6 @@ Heart-Disease-Prediction/
 │
 ├── static/
 │   ├── css/
-│   ├── js/
-│   └── images/
 │
 └── README.md
 ```
